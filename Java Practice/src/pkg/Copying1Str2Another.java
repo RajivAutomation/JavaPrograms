@@ -2,6 +2,9 @@ package pkg;
 
 public class Copying1Str2Another {
 
+	/*
+	@author Rajiv
+	*/
 	
 	public static void main(String[] args) {
 		
